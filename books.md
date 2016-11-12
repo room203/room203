@@ -1,6 +1,21 @@
 Ссылки на files.slack.com будут работать только для участников чата.
 Ссылки на vk.com должны работать для всех людей
 
+# Как открывать книги
+PDF можно открывать в любом браузере.  
+
+### Плагины для браузера чтобы открывать FB2
+Для Firefox: https://addons.mozilla.org/en-US/firefox/addon/fb2-reader/
+Для Google Chrome: https://chrome.google.com/webstore/detail/fb2-reader/imcncdfdhemlpcblfkilloceahbhddnj
+
+### Плагины для браузера чтобы открывать EPUB
+Для Firefox https://addons.mozilla.org/en-US/firefox/addon/epubreader/
+Для Google Chrome: https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl
+
+### Универсальные читалки для Android (PDF/EPUB/FB2):
+Cool Reader: https://play.google.com/store/apps/details?id=org.coolreader&hl=en  
+Universal Book Readerhttps://play.google.com/store/apps/details?id=org.coolreader&hl=en
+
 # Книги от worm-а
 ### Депрессия отменяется
 Депрессия – тяжелейшая и распространенная болезнь. Ее появление вызвано множеством факторов. Но есть один фактор, который часто упускают из виду: наши собственные привычки. Эта книга поможет вам заменить шаблоны саморазрушающего поведения и вернуться к жизни, научившись мыслить, чувствовать и поступать по-новому.  
