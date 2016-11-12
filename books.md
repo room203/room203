@@ -5,11 +5,11 @@
 PDF можно открывать в любом браузере.  
 
 ### Плагины для браузера чтобы открывать FB2
-Для Firefox: https://addons.mozilla.org/en-US/firefox/addon/fb2-reader/
+Для Firefox: https://addons.mozilla.org/en-US/firefox/addon/fb2-reader/  
 Для Google Chrome: https://chrome.google.com/webstore/detail/fb2-reader/imcncdfdhemlpcblfkilloceahbhddnj
 
 ### Плагины для браузера чтобы открывать EPUB
-Для Firefox https://addons.mozilla.org/en-US/firefox/addon/epubreader/
+Для Firefox https://addons.mozilla.org/en-US/firefox/addon/epubreader/  
 Для Google Chrome: https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl
 
 ### Универсальные читалки для Android (PDF/EPUB/FB2):
