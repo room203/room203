@@ -14,7 +14,7 @@ PDF можно открывать в любом браузере.
 
 ### Универсальные читалки для Android (PDF/EPUB/FB2):
 Cool Reader: https://play.google.com/store/apps/details?id=org.coolreader&hl=en  
-Universal Book Readerhttps://play.google.com/store/apps/details?id=org.coolreader&hl=en
+Universal Book Reader: https://play.google.com/store/apps/details?id=org.coolreader&hl=en
 
 # Книги от worm-а
 ### Депрессия отменяется
