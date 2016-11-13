@@ -100,6 +100,6 @@ FB2: https://files.slack.com/files-pri/T1UGYBH38-F32FG5CJJ/download/ispoved-norm
 Как за один час разузнать, что сводит с ума вашего возлюбленного или возлюбленную в постели.  
 И многое, многое другое...  
 Прочитайте эту книгу, и вы сможете разжечь малейшую искру симпатии во всепоглощающий пожар страсти!  
-PDF: https://vk.com/doc333567025_438922013
+PDF: https://vk.com/doc333567025_438922013  
 FB2: https://files.slack.com/files-pri/T1UGYBH38-F320J5EQM/download/kak_vlyubit_v_sebya_lyubogo.fb2  
 FB2 (альтернативная ссылка): https://vk.com/doc333567025_438920318
