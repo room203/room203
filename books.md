@@ -103,3 +103,4 @@ FB2: https://files.slack.com/files-pri/T1UGYBH38-F32FG5CJJ/download/ispoved-norm
 PDF: https://files.slack.com/files-pri/T1UGYBH38-F318115HP/laundes.pdf  
 FB2: https://files.slack.com/files-pri/T1UGYBH38-F320J5EQM/download/kak_vlyubit_v_sebya_lyubogo.fb2  
 FB2 (альтернативная ссылка): https://vk.com/doc333567025_438920318
+
