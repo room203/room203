@@ -1,0 +1,23 @@
+Medication
+
+Research shows that the risk for suicide is associated with changes in brain chemicals called neurotransmitters, including serotonin. Decreased levels of serotonin have been found in people with depression, impulsive disorders, and a history of suicide attempts, and in the brains of suicide victims1. The aim of medication is to restore the level of certain chemicals in the brain to a higher level, thereby improving the mental state of the patient.
+
+There are a variety of medications used to treat mental and personality disorders, such as depression, bipolar and schizophrenia, and these may be prescribed by doctors or psychiatrists. It is common for people contemplating or attempting suicide to be recommended by their doctor for both psychotherapy and medication.
+
+There is certainly a worrying number of people who try to commit suicide via an overdose of anti-depressants. It is does not serve as the biggest vote of confidence in them. The effectiveness of anti-depressants was evaluated in 2008 by psychology professor Irving Kirsch and his colleagues2. Their findings were based on published and unpublished data used by the US Food and Drug Administration (FDA) to approve four popular SSRI anti-depressants fluoxetine (Prozac), venlafaxine (Seroxat), nefazodone (Effexor), and paroxetine (Serzone).
+
+Kirsch et al called into question the effectiveness of anti-depressants, especially for people who were only mildly or moderately depressed. There was a better case for their effectiveness in the severely depressed. This research was hotly contested, although it was argued that the huge vested interest of the drug firms producing anti-depressants meant that any balanced reporting was difficult.
+
+However, there are also lots of studies supporting the use of anti-depressants, and plenty of anecdotal evidence too. The US Department of Health3 state that up to 70 percent of people with depression can be treated effectively with medication. According to the American Association of Suicidology, there is no evidence that taking anti-depressants increases the risk of suicide, so at worst they should have no effect on mood, although some anti-depressants can have side effects (check with a doctor before taking them).
+
+With such conflicting data it is hard to draw firm conclusions on anti-depressants, although given such conflict it would seem sensible to combine other depression treatments (e.g. psychotherapy) with the medication, so that they are not relied on 100% as the cure.
+
+Sources
+
+    Arango V, Huang YY, Underwood MD, Mann JJ. Genetics of the serotonergic system in suicidal behavior. Journal of Psychiatric Research. Vol. 37: 375-386. 2003.
+
+    Anti-depressants: which research should we believe?, published 18 April 2008 on Psychminded.co.uk (http://www.psychminded.co.uk/news/news2008/April08/antidepressants007.htm).
+
+    U.S. Department of Health and Human Services. 2000. Mental health: A report of the surgeon general. Retrieved December 27, 2005, from http://www.surgeongeneral.gov/library/mentalhealth/home.html.
+
+    American Association of Suicidology, Some Facts About Suicide and Depression, Factsheet from http://www.suicidology.org/c/document_library/get_file?folderId=232&name=DLFE-157.pdf.
