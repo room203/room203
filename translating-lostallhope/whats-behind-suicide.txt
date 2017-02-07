@@ -1,5 +1,7 @@
 What's behind suicide?
 
+Что стоит за суицидом?
+
 In researching this website, I came across some interesting studies and comments about what drives people to suicide. I thought it might be helpful to share this information so people can understand better what might be lying behind how they are feeling.
 
 Research in the UK and in the US seems consistent in identifying the principal factors that contribute to someone committing suicide. According to the American Association of Suicidology1, major depression is the psychiatric diagnosis most commonly associated with suicide. The risk of suicide in people with major depression is about 20 times that of the general population. About two thirds of people who complete suicide are depressed at the time of their deaths. That's a very high percentage.
@@ -9,10 +11,16 @@ The risk of someone suffering from an untreated major depressive disorder trying
 Research studies2,3,4 would point to the following being major factors triggering people to attempt to kill themselves. Note that more than 90 percent of people who die by suicide have the top two risk factors:
 
     Depression (especially if exhibiting extreme hopelessness, lack of interest in activities that were previously pleasurable, heightened anxiety and/or panic attacks) and other mental disorders
+    
+    Депрессия (особенно если у человека сильное чувство безнадёжности, если занятие, которые раньше были интересными, уже не вызывают интереса, если есть повышенное беспокойство и/или панические атаки) и другие психические расстройства.
 
     An alcohol or substance-abuse disorder (often in combination with other mental disorders)
+    
+    Злоупотребление алкоголем или другими веществами (часто в сочетания с другими психическими расстройствами)
 
     Relationship difficulties (either with an existing partner, or due to divorce, being widowed or a relationship break-up)
+        
+    Трудности в отношения (или в отношениях с существующим партнером, или из-зи развода, или из-за вдовства или из-за распада отношений).
 
     Prior suicide attempt (one study5 indicated that anyone who has previously attempted suicide is 100 times more likely to make a successful attempt compared to the suicide rate of the general population)
 
@@ -25,18 +33,28 @@ Research studies2,3,4 would point to the following being major factors triggerin
     Firearms in the home, the method used in more than half of US suicides
 
     Being in prison
+    
+    Тюремное заключение
 
     Unemployment
+    
+    Безработица
 
     Issues with studies (a major problem for those at university/college)
 
     Financial problems
+    
+    Финансовые проблемы
 
     Legal problems
+    
+    Проблемы с законом
 
     Social deprivation
 
     Social isolation
+    
+    Социальная изоляция
 
 However, suicide and suicidal behaviour are not normal responses to the factors mentioned above; many people have these risk factors, but are not suicidal. Research also shows that the risk for suicide is associated with changes in brain chemicals called neurotransmitters, including serotonin. Decreased levels of serotonin have been found in people with depression, impulsive disorders, a history of suicide attempts, and in the brains of suicide victims.
 
