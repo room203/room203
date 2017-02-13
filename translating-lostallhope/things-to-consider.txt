@@ -24,7 +24,7 @@ If one is intent on committing suicide, there are a few practical matters that n
 
     Prepare the means. Most suicide methods require some preparation.
     
-    Подготовьтесь к самоубийства, раздобудьте нужные средства, таблетки или химические игридиенты.
+    Подготовьтесь к самоубийства, раздобудьте нужные средства, таблетки или химические игредиенты.
 
     If required, find someone to assist getting the means for the selected method, or help with the method itself. This may be particularly relevant for the infirm or terminally ill, and working out who can assist without judging you is key. Take great care that any assistance will not run foul of euthanasia laws in your country, as assisting people in their own suicide is generally illegal. See the law sections under Euthanasia & assisted suicide for more information.
     
@@ -45,6 +45,8 @@ If one is intent on committing suicide, there are a few practical matters that n
     Financial affairs. It makes sense to have all your financial affairs in order. It is also extremely helpful to whoever will be left to deal with your financial affairs, generally the executors of your will, to have a letter detailing bank accounts, life insurance policies, pension funds and details of any other assets that may be subject of your will.
     
     * Тоже вряд ли работает в exUSSR. Наверно этот абзац можно выкинуть. * Финансовые дела. Есть смысл привести все ваши финансовые дела в порядок. Ещё очень полезно, оставить тем людям, которые будут разбираться с вашими финансовыми делами, детальную информацию о банковских вкладах, медицинской страховке, пенсионных фондах и другие детали, которые могут являться предметом вашего завещание.
+    
+    *Переписал абзац под российские реалии* Финансовые дела. Есть смысл привести все ваши финансовые дела в порядок. Ещё очень полезно, оставить тем людям, которые будут разбираться с вашими финансовыми делами, детальную информацию о ваших банковских вкладах. Напишите завещание. Не оставляйте долгов перед смертью, тем самым сильно подставляя других людей
 
     Funeral. Consider whether you wish to be buried, cremated, or leave your body to be donated to medical science. Put this instruction in your will. Try and make sure someone else knows.
     
@@ -56,4 +58,4 @@ If one is intent on committing suicide, there are a few practical matters that n
 
 Many suicides and attempted suicides are done on impulse, but this suggests that the same people would not have tried to kill themselves either days before, or days after, had they thought about their actions for longer. Suicide is a permanent condition. It is not a decision that should be rushed.
 
-Многие самоубийства и попытки самоубийства  совершаются импульсивно. Это говорит о том, что эти люди не пытались себя убить несколькими дням раньше, и не убивали бы себя несколькими днями после. Люди не убивали бы себя, если бы у них было больше времени на раздумья. не нужно совершать самоубийство импульсивно, в спешке. Подумайте.Похороны. Подумайте, хотите ли вы, чтобы вас похоронили, кремировали или отдали ваше тело медиками (ради науки). Поместите этот пункт в ваше завещения. Постарайтесь чтобы об этом знал кто-то ещё.
+Многие самоубийства и попытки самоубийства  совершаются импульсивно. Это говорит о том, что эти люди не пытались себя убить несколькими дням раньше, и не убивали бы себя несколькими днями после. Люди не убивали бы себя, если бы у них было больше времени на раздумья. не нужно совершать самоубийство импульсивно, в спешке.
