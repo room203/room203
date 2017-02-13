@@ -23,14 +23,24 @@ Research studies2,3,4 would point to the following being major factors triggerin
     Трудности в отношения (или в отношениях с существующим партнером, или из-зи развода, или из-за вдовства или из-за распада отношений).
 
     Prior suicide attempt (one study5 indicated that anyone who has previously attempted suicide is 100 times more likely to make a successful attempt compared to the suicide rate of the general population)
+    
+    Предыдущая попытка самоубийства. Одно исследование показало, что у каждого кто раньше пытался совершить самоубийства вероятность совершить ещё одну попытку самоубийства в 100 раз больше чему среднестатистического человека.
 
     Family history of mental disorder or substance abuse
+    
+    Наличие семейные расстройств в семье у близких родственников или если члены семьи злоупотребляли алкоголем или наркотиками.
 
     Family history of suicide, or exposure to the suicidal behaviour of family members, peers, or media figures
+    
+    Если кто-то в семье совершил самоубийство.
 
     Family violence, including physical or sexual abuse (especially for young people)
+    
+    Насилие в семьи, физические или сексуальное (это особенно плохо для молодых людей)
 
     Firearms in the home, the method used in more than half of US suicides
+    
+    Огнестрельное оружие в доме. В США больше половины самоубийств совершается с помощью огнестрельного оружия
 
     Being in prison
     
@@ -41,6 +51,8 @@ Research studies2,3,4 would point to the following being major factors triggerin
     Безработица
 
     Issues with studies (a major problem for those at university/college)
+    
+    Проблемы с учёбой у студентов
 
     Financial problems
     
@@ -51,6 +63,8 @@ Research studies2,3,4 would point to the following being major factors triggerin
     Проблемы с законом
 
     Social deprivation
+    
+    * ХЗ что это такое * Cоциальная депривация
 
     Social isolation
     
@@ -60,8 +74,14 @@ However, suicide and suicidal behaviour are not normal responses to the factors 
 
 Depression, like other mental illnesses, is probably caused by a combination of biological, environmental, and social factors, but the exact causes are not yet known. For years, scientists thought that low levels of certain neurotransmitters (such as serotonin, dopamine, or norepinephrine) in the brain caused depression.
 
+Депрессия, как и любое другое психическое заболевание, возможно вызвано комбинацией медицинских и социальных факторов, влиянием окружающей среды, но точные причины пока неизвестны. В течение многих лет учёные полагали что депрессию вызывает слишком низкий уровень нейротрансмиттеров в мозге, такие как серотонин, дофамин и норадреналин.
+
 However, scientists now believe that the interplay of factors leading to depression is much more complex. Genetic causes have been suggested from family studies that have shown that between 20 and 50 percent of children and adolescents with depression have a family history of depression, and that children of depressed parents are more than three times as likely as children with non-depressed parents to experience a depressive disorder6.
+
+Однако сейчас учёные считают, что сочетание факторов, приводящее к депрессии, гораздо более сложные. Очень важна генетика. Исследования показали, что в семьях от 20 до 50% депрессивных людей, другие члены семьи, особенно родители, страдают депрессией. Дети депрессивных родителей более чем в 3 раза подвержены депрессии чем дети нормальных родителей.
 
 In some people, there can be underlying physical reasons for severe depression. For instance, those diagnosed with a terminal illness, or those living with a long term physical disability, especially if accompanied by pain that is never likely to go away. It can be much harder to treat depression for people in this category, as the underlying causes are physical issues that cannot be cured. That isn't to say though that even people such as this can't find a motivating reason for living. See Help me.
 
 For more information on the factors that lead to someone feeling suicidal, see Risk factors for suicide.
+
+* Это переводить не неда *
