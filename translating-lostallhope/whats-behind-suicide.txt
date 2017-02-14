@@ -70,7 +70,7 @@ Research studies2,3,4 would point to the following being major factors triggerin
     
     Социальная изоляция
 
-However, suicide and suicidal behaviour are not normal responses to the factors mentioned above; many people have these risk factors, but are not suicidal. Research also shows that the risk for suicide is associated with changes in brain chemicals called neurotransmitters, including serotonin. Decreased levels of serotonin have been found in people with depression, impulsive disorders, a history of suicide attempts, and in the brains of suicide victims.
+Однако, суицид и суицидальное поведение не являются нормальной реакцией на факторы, перечисленные выше. У многих людей есть перечисленные выше факторы, но при этом эти люди не суицидальны. Исследование так же показывает что риск суицида ассоциируется с изменением в химических веществах мозга,называемых нейротрансмиттерами, таких как серотонин. Пониженный уровень серотонина бый найден у людей с депрессией, импульсивным поведенческим расстройством (F63),  историей суицидальных попыток а так же в мозге трупов людей, совершивших суицид.
 
 Depression, like other mental illnesses, is probably caused by a combination of biological, environmental, and social factors, but the exact causes are not yet known. For years, scientists thought that low levels of certain neurotransmitters (such as serotonin, dopamine, or norepinephrine) in the brain caused depression.
 
@@ -82,6 +82,8 @@ However, scientists now believe that the interplay of factors leading to depress
 
 In some people, there can be underlying physical reasons for severe depression. For instance, those diagnosed with a terminal illness, or those living with a long term physical disability, especially if accompanied by pain that is never likely to go away. It can be much harder to treat depression for people in this category, as the underlying causes are physical issues that cannot be cured. That isn't to say though that even people such as this can't find a motivating reason for living. See Help me.
 
+У некоторых людей депрессия может быть вызвана медицинскими, физиологическими причинами. Это верно для людей с неизлечимой болезнью, или для тех, у кого есть инвалидность, сопряженная с болью, которая никогда не уйдёт. Людям из этой категории, гораздо сложнее бороться с депрессией, так как причины депрессии - медицинские, и не могут быть вылечены. Однако это не говорит о том, что даже люди из этой категории не могут найти причину, чтобы продолжать жить.
+
 For more information on the factors that lead to someone feeling suicidal, see Risk factors for suicide.
 
-* Это переводить не неда *
+* Это переводить не недо *
